@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-photography/static/css/main.3776e45b.css",
+    "main.js": "/portfolio-photography/static/js/main.8cb97734.js",
+    "static/media/about.jpg": "/portfolio-photography/static/media/about.d9cdb51d3cb876a5a3b6.jpg",
+    "static/media/profile picture.jpg": "/portfolio-photography/static/media/profile picture.94d1de5d160e9e213de4.jpg",
+    "index.html": "/portfolio-photography/index.html",
+    "main.3776e45b.css.map": "/portfolio-photography/static/css/main.3776e45b.css.map",
+    "main.8cb97734.js.map": "/portfolio-photography/static/js/main.8cb97734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3776e45b.css",
+    "static/js/main.8cb97734.js"
+  ]
+}
